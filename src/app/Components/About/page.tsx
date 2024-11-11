@@ -20,7 +20,7 @@ const AboutSection = () => {
         <div className="space-y-6">
           <h2 className="text-4xl font-extrabold text-dark-gray">About Me</h2>
           <p className="text-gray-800 text-lg leading-relaxed">
-            I am Ikhlas Bano, an undergraduate Computer Engineering student with a keen interest in software development and system engineering. Eager to grow in a dynamic environment, I’m focused on building skills that enhance my technical expertise and analytical thinking.
+            I am Ikhlas Bano, an undergraduate Computer Engineering student with a keen interest in software development and system engineering. Eager to grow in a dynamic environment, I am focused on building skills that enhance my technical expertise and analytical thinking.
           </p>
           <p className="text-gray-800 text-lg leading-relaxed">
             Throughout my studies, I've explored areas such as web development, software engineering, and emerging technologies like artificial intelligence. My goal is to collaborate with innovative teams to create impactful digital solutions while advancing my knowledge and contributing to meaningful projects.
