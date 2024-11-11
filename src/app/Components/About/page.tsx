@@ -23,7 +23,7 @@ const AboutSection = () => {
             I am Ikhlas Bano, an undergraduate Computer Engineering student with a keen interest in software development and system engineering. Eager to grow in a dynamic environment, I am focused on building skills that enhance my technical expertise and analytical thinking.
           </p>
           <p className="text-gray-800 text-lg leading-relaxed">
-            Throughout my studies, I've explored areas such as web development, software engineering, and emerging technologies like artificial intelligence. My goal is to collaborate with innovative teams to create impactful digital solutions while advancing my knowledge and contributing to meaningful projects.
+            Throughout my studies, Ive explored areas such as web development, software engineering, and emerging technologies like artificial intelligence. My goal is to collaborate with innovative teams to create impactful digital solutions while advancing my knowledge and contributing to meaningful projects.
           </p>
           <p className="text-gray-800 text-lg leading-relaxed">
             With a deep commitment to continuous learning, I stay updated with the latest in AI, Web 3.0, and software development trends. My career objective is to collaborate with a team dedicated to mutual growth and innovation.
