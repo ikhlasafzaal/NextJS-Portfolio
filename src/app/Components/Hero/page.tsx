@@ -5,7 +5,7 @@ const HeroSection = () => {
     <section className="py-28 px-6 bg-gradient-to-r from-secondary to-primary mt-19">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
-          <p className="text-black text-3xl font-bold opacity-80">Hello, I'm Ikhlas Bano</p>
+          <p className="text-black text-3xl font-bold opacity-80">Hello, I am Ikhlas Bano</p>
           <h1 className="text-4xl md:text-5xl font-extrabold text-grey align-center tracking-tight">
             Aiming to make an impact as a <span className="text-accent font-bold">Computer Engineer</span>
           </h1>

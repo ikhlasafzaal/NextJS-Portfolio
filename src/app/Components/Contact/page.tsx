@@ -5,7 +5,7 @@ const ContactSection = () => {
     <section className="py-20 px-6 bg-light-gray">
       <div className="max-w-7xl mx-auto space-y-12">
               <h2 className="text-5xl font-extrabold text-dark-gray mb-4 text-center">
-          Let's Work Together
+          Lets Work Together
         </h2>
         <p className="text-lg font-medium text-dark-gray text-center">
           Have a project in mind or just want to say hi? Feel free to reach out.
